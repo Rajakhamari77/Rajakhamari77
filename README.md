@@ -1,6 +1,7 @@
-🔭 I’m currently working on ...<h1 align="center">Hi 👋, I'm Raja khamari</h1>
+<h1 align="center">Hi 👋, I'm Raja khamari</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkhandelwal191&label=Profile%20views&color=0e75b6&style=flat" alt="rajakhamari77" /> </p>
+<img src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif" align="right" alt="coding" width="400">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajakhamari77&label=Profile%20views&color=0e75b6&style=flat" alt="rajakhamari77" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajakhamari77" alt="rajakhamari77" /></a> </p>
@@ -33,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajakhamari77&show_icons=true&locale=en" alt="rajakhamari77" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajakhamari77&" alt="rajakhamari77" /></p
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajakhamari77&" alt="rajakhamari77" /></p>
