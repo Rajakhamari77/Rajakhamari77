@@ -1,102 +1,67 @@
-<!-- Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Hi 👋, I'm Raja Khamari</h1>
-<h3 align="center">💻 Full Stack Web Developer | MERN & Django Enthusiast | Problem Solver</h3>
+<h3 align="center">💻 Full Stack Developer | MERN & Django Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding Animation" width="450"/>
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding Animation" width="500"/>
 </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajakhamari77" alt="rajakhamari77" /></a> </p>
 
-## 🚀 About Me  
+- 🔭 I’m currently working on **Student Management System (Django + PostgreSQL)**
 
-- 🎓 B.Tech Graduate in **Electrical & Electronics Engineering** with strong passion for software development  
-- 🔭 Currently working on: **Student Management System (Django + PostgreSQL)**  
-- 🌱 Learning: **Django REST Framework, Cloud Deployment & Advanced React**  
-- 👯 Looking to collaborate on: **Scalable Full Stack Web Applications**  
-- 🤝 Open to help with: **Backend Optimization & State Management**  
-- 💬 Ask me about: **React.js, Redux, Node.js, Express.js, Django, REST APIs**  
-- 👨‍💻 Portfolio: [My Projects](https://portfolio-two-omega-44.vercel.app/)  
-- 📄 Resume: [Download Here](#)  
-- 📫 Reach me at: **rajakhamari77@gmail.com**  
-- ⚡ Fun fact: **🐛 Debugging feels like detective work – every solved bug is a solved mystery 🔍**  
+- 🌱 I’m currently learning **Django REST Framework, Cloud Deployment, and Advanced React**
 
----
+- 👯 I’m looking to collaborate on **Full Stack Web Applications with Django / React**
 
-## 🛠 Tech Stack  
+- 🤝 I’m looking for help with **Advanced state management & backend optimization**
 
-### 🌐 Frontend  
-`React.js` · `Redux` · `JavaScript (ES6+)` · `HTML5` · `CSS3` · `Bootstrap` · `TailwindCSS`  
+- 👨‍💻 All of my projects are available at [https://portfolio-two-omega-44.vercel.app/](https://portfolio-two-omega-44.vercel.app/)
 
-### ⚙️ Backend  
-`Node.js` · `Express.js` · `Python` · `Django`  
+- 💬 Ask me about **React.js, Redux, Node.js, Express.js, MongoDB, and REST APIs**
 
-### 🗄️ Databases  
-`MongoDB` · `MySQL` · `PostgreSQL` · `Oracle SQL`  
+- 📫 How to reach me **rajakhamari77@gmail.com**
 
-### 🔧 Tools & Platforms  
-`Git` · `GitHub` · `Postman` · `Vercel` · `Netlify` · `Heroku`  
+- ⚡ Fun fact **I love solving bugs more than creating features – fixing one line feels like winning a battle 🏆**
 
----
-
-## 💼 Featured Projects  
-
-### 📘 **Student Management System**  
-🔹 Tech: Django, PostgreSQL, Bootstrap  
-🔹 Role-based dashboards for Principal, Teacher, Student  
-🔹 Timetable, Classroom creation, Attendance & Results management  
-
-### 💰 **Expense Tracker**  
-🔹 Tech: React.js, Node.js, MongoDB  
-🔹 Add, edit & delete expenses with real-time summary  
-🔹 Interactive charts showing spending patterns  
-
-### ☁️ **Weather Forecast App**  
-🔹 Tech: HTML5, CSS3, OpenWeather API  
-🔹 Real-time weather data with responsive design  
-🔹 Deployed on GitHub Pages  
-
-👉 More projects available at: [Portfolio](https://portfolio-two-omega-44.vercel.app/)  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajakhamari77&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/raja-khamari-76ab55240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raja-khamari-76ab55240" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajakhamari77&layout=compact&theme=tokyonight" alt="Top Languages" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> 
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/> 
+
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/> 
+
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> 
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajakhamari77&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajakhamari77&show_icons=true&locale=en&layout=compact" alt="rajakhamari77" /></p>
 
-## 🏆 Achievements  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajakhamari77&show_icons=true&locale=en" alt="rajakhamari77" /></p>
 
-- 🥇 Built **E-commerce Backend API** with authentication & payment integration  
-- 📊 Created **Data Visualization Dashboard** with **MongoDB + D3.js**  
-- 🌍 Deployed multiple projects on **Vercel, Netlify & GitHub Pages**  
-- 📝 Published technical blogs on **React.js & Django**  
-
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/raja-khamari-76ab55240" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rajakhamari77@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Rajakhamari77">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
-  </a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajakhamari77&" alt="rajakhamari77" /></p>
