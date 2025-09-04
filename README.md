@@ -26,9 +26,25 @@
 - ⚡ Fun fact **I love solving bugs more than creating features – fixing one line feels like winning a battle 🏆**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raja-khamari-76ab55240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raja-khamari-76ab55240" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Rajakhamari77" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin: 10px;" />
+  </a>
+  <a href="https://www.instagram.com/rajakhamari" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50" style="margin: 10px;" />
+  </a>
+  <a href="http://discordapp.com/users/745479608983355476" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Discord" width="50" height="50" style="margin: 10px;" />
+</a>
+
+  <a href="https://linkedin.com/in/raja-khamari-76ab55240" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="margin: 10px;" />
+  </a>
+  <a href="mailto:rajakhamari77@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="50" height="50" style="margin: 10px;" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
